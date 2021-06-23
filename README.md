@@ -43,6 +43,3 @@ O layout do projeto está no [Figma](http://figma.com/):
 
 - [Protótipo por Rebecca Gonzalez](https://www.figma.com/file/rgNLDQE5dlwJriJTB8tn11/Letmeask) 
 
-## 📝 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
